@@ -12,6 +12,7 @@
 ---
 ## Skills
 * HTML5, CSS3, SCSS
+* JavaScript
 * Git, GitHub
 * VS Code
 * CorelDraw, Figma
