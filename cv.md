@@ -16,6 +16,7 @@
 * Git, GitHub
 * VS Code
 * CorelDraw, Figma
+
 ---
 ## Code example
 ```
